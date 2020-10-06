@@ -1,0 +1,31 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_payone (0.0.1):
+    - Flutter
+    - PubNub (= 4.12.0)
+  - PubNub (4.12.0):
+    - PubNub/Core (= 4.12.0)
+  - PubNub/Core (4.12.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_payone (from `.symlinks/plugins/flutter_payone/ios`)
+
+SPEC REPOS:
+  trunk:
+    - PubNub
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_payone:
+    :path: ".symlinks/plugins/flutter_payone/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_payone: a4789fc1bf72c51068a7e0ec20d12b0e4609c736
+  PubNub: 44e2eb39746e7231b98b978a8e3b9726b11dca9c
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.1
